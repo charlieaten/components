@@ -8,6 +8,7 @@ defmodule Phoenix.Components do
   defdelegate card_action(assigns), to: Phoenix.Components.Card
   defdelegate card_content(assigns), to: Phoenix.Components.Card
   defdelegate card_footer(assigns), to: Phoenix.Components.Card
+  defdelegate input(assigns), to: Phoenix.Components.Input
   defdelegate skeleton(assigns), to: Phoenix.Components.Skeleton
   defdelegate table(assigns), to: Phoenix.Components.Table
   defdelegate table_header(assigns), to: Phoenix.Components.Table
