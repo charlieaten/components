@@ -1,4 +1,5 @@
 %{
+  "cva": {:hex, :cva, "0.2.2", "19ff3fe93c796250f2a3946930e5be62e73019e927aa21c70fcd3c64e9b58466", [:mix], [{:phoenix_live_view, ">= 0.18.0", [hex: :phoenix_live_view, repo: "hexpm", optional: false]}], "hexpm", "cb494f3df0bf4a8c1b3652d052d0c4dc5111ef6981f542cc22210f639bfbfcda"},
   "deep_merge": {:hex, :deep_merge, "1.0.0", "b4aa1a0d1acac393bdf38b2291af38cb1d4a52806cf7a4906f718e1feb5ee961", [:mix], [], "hexpm", "ce708e5f094b9cd4e8f2be4f00d2f4250c4095be93f8cd6d018c753894885430"},
   "mime": {:hex, :mime, "2.0.7", "b8d739037be7cd402aee1ba0306edfdef982687ee7e9859bee6198c1e7e2f128", [:mix], [], "hexpm", "6171188e399ee16023ffc5b76ce445eb6d9672e2e241d2df6050f3c771e80ccd"},
   "nimble_parsec": {:hex, :nimble_parsec, "1.4.2", "8efba0122db06df95bfaa78f791344a89352ba04baedd3849593bfce4d0dc1c6", [:mix], [], "hexpm", "4b21398942dda052b403bbe1da991ccd03a053668d147d53fb8c4e0efe09c973"},
