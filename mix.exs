@@ -23,7 +23,8 @@ defmodule Phoenix.Components.MixProject do
     [
       {:phoenix, "~> 1.8.1"},
       {:phoenix_html, "~> 4.1"},
-      {:phoenix_live_view, "~> 1.1.0"}
+      {:phoenix_live_view, "~> 1.1.0"},
+      {:tw_merge, "~> 0.1.0"}
     ]
   end
 end

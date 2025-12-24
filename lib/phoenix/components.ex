@@ -18,4 +18,6 @@ defmodule Phoenix.Components do
   defdelegate table_head(assigns), to: Phoenix.Components.Table
   defdelegate table_cell(assigns), to: Phoenix.Components.Table
   defdelegate table_caption(assigns), to: Phoenix.Components.Table
+
+  def cn(classes), do: TwMerge.merge(classes)
 end
